@@ -1,0 +1,17 @@
+button{
+margin:3px
+} 
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.colored{
+    color: palevioletred;
+}
+
+.body-cell {
+  white-space: normal !important;
+  overflow-wrap: break-word !important;
+}
