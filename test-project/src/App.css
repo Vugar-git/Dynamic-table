@@ -15,3 +15,10 @@ header{
   white-space: normal !important;
   overflow-wrap: break-word !important;
 }
+
+.box-style{
+display: "flex";
+justify-content: center;
+align-items: "center";
+
+}

@@ -20,13 +20,7 @@ const Comments = () => {
   }, []);
 
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
+    <div className="box-style">
       <div>
         <DataGrid
           rows={tableData}
